@@ -1,0 +1,36 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	background-color: pink;
+	display: block;
+	width: 970px;
+}
+#header{
+	background-color: yellow;
+	display: block;
+	width: 960px;
+	height: 150px;
+}
+img{
+	display: inline-block;
+}
+#mainContent{
+	background-color: lightblue;
+	display: inline-block;
+	vertical-align: top;
+	width: 580px;
+	height: 255px;
+}
+#mainFooter{
+	background-color: grey;
+	display: block;
+}
+.services{
+	background-color: lightgreen;
+	display: inline-block;
+	width: 235px;
+	height: 260px;
+
+}
