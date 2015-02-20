@@ -11,8 +11,25 @@ body{
 	background-color: yellow;
 	display: block;
 	width: 960px;
-	height: 150px;
+	height: 100px;
 }
+		#header p{
+			background-color: grey;
+			display: inline-block;
+			text-align: right;
+			padding-top: 25px;
+			width: 595px;
+			vertical-align: top;
+		}
+		#header a{
+			text-decoration: none;
+		}
+		#header li{
+			display: inline;
+			text-decoration: none;
+			margin-left: 45px;
+			font-size: 10px;
+		}
 img{
 	display: inline-block;
 }
